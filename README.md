@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aarushiperiwal@gmail.com**
 
-- 📄 Experience [Project Trainee @ RRSC, ISRO](Project Trainee @ RRSC, ISRO)
+- 📄 Experience **Project Trainee @ RRSC, ISRO**
 
 - 📚 Education **M.Sc in Geoinformatics**
 
