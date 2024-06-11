@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **📊 Spatial data analysis and machine learning in GIS**
 
-- 💬 Ask me about **ArcGis, ERDAS, Tableau**
+- 💬 Ask me about **ArcGis, QGIS, Tableau**
 
 - 📫 How to reach me **aarushiperiwal@gmail.com**
 
